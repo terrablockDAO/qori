@@ -1,0 +1,2 @@
+# qori
+qori token logo
